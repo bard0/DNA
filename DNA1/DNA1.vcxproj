@@ -115,6 +115,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FrequentWordsProblem.cpp" />
+    <ClCompile Include="PatternCountProblem.cpp" />
+    <ClCompile Include="ReverseComplementProblem.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
