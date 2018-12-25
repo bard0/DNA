@@ -15,13 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ReverseComplementProblem.cpp">
+    <ClCompile Include="ProteinTranslationProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="PeptideEncodingProblem.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
     <ClCompile Include="FrequentWordsProblem.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
     <ClCompile Include="PatternCountProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseComplementProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForce.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclopeptideScoringProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="MedianStringProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="MotifEnumerationProblem.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclopeptideSequencingProblem.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
